@@ -1,0 +1,16 @@
+BleezWallet is a secure wallet, and the 1st wallet to develop and make public the bitcoin flash options in its project.
+Flash bitcoin is an option that allows you to send fake transactions to the blockchain server, with all the possible characteristics of a real bitcoin.
+Features of BleezWallet 1.0.23
+-Only supports bitcoin cryptocurrency
+-Support all types of bitcoin addresses: Bech32,P2PK,P2SH,Taproot,Legacy,Bc1p,SegWit,Native Segwit, etc...
+-Support all wallets and exchangers: cex and dex
+-Send up to 300 BTC per transaction
+-An activation key options to credit the flash balance
+-Activation keys of 200 BTC, 500 BTC, 999 BTC
+-You have the option to pay for multiple action keys
+
+Website : bleezwallet.com
+
+Telegram : @Bleezwaallet
+
+Mail : bleezwallet@gmail.com
